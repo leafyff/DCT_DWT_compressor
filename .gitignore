@@ -1,0 +1,14 @@
+# віртуальне середовище та налаштування IDE
+.venv/
+.idea/
+
+# кеш Python, тести, збірка пакета
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# звіти, які створює програма (dctdwt --batch)
+results/
